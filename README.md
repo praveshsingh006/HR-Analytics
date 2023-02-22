@@ -15,10 +15,10 @@
 - Based on the analysis the following can be drawn;
 
 
-*Conclusion**
+**Conclusion**
 
   - In the Dashboard, we can see the Presence %, Work From Home %, and Sick Leaves % of the employees.
   
-  - We can see from the trend chart in the report that most of the employees take leaves and do work from home on Friday. So if possible we can schedule all the             important meetings and projects on Mondays.
+  - We can see from the trend chart in the report that most of the employees take leaves and do work from home on Friday. So if possible we can schedule all the important meetings and projects on Mondays.
 
-  - Based on this report if the SL(Sick Leave)%  increases, means more and more employees taking leaves. so we can check what's the cause it may seasonal fever or cold       so we can take some measures.
+  - Based on this report if the SL(Sick Leave)%  increases, means more and more employees taking leaves. so we can check what's the cause it may seasonal fever, cold, or flue so we can take some measures.
